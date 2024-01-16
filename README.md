@@ -6,14 +6,19 @@ summer break to keep my skills up to date. Also wanted to start a portfolio for
 future internships to demonstrate my knowledge.
 
 ## Dependencies
-JDK (unsure what version SPECIFICALLY, I just have v17)
-Terminal (or CMD for Windows users)
+- JDK (unsure what version SPECIFICALLY, I just have v17)
+- Terminal (or CMD for Windows users)
 
 ## About the code.
 It's pretty simple. It's a stock-standard CLI APA-style referencer. There's a 
 test harness to demonstrate the "gist" of the programme. You can just run that 
 via terminal if you would like to. It should generate a .txt file in the 
 "output" folder.
+
+### Cool features
+- Custom merge sort implementation
+- Author name truncation
+- Different print results if no link is included.
 
 ## Running the code
 Run the code via Terminal or your favourite IDE if you're lazy. The code 
